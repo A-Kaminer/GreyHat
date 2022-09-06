@@ -1,0 +1,1 @@
+flag{at_least_the_compiler_warns_you}
